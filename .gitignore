@@ -4,3 +4,5 @@ test
 train
 *.mat
 extra.py
+svhn.py
+.gitignore
